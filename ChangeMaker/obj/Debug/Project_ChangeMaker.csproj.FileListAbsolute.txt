@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ChangeMaker\bin\Debug\ChangeMaker.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ChangeMaker\bin\Debug\ChangeMaker.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ChangeMaker\bin\Debug\ChangeMaker.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ChangeMaker\obj\Debug\Project_ChangeMaker.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ChangeMaker\obj\Debug\ChangeMaker.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ChangeMaker\obj\Debug\ChangeMaker.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ChangeMaker\obj\Debug\Project_ChangeMaker.csprojAssemblyReference.cache

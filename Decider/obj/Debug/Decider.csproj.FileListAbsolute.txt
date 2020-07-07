@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Decider\bin\Debug\Decider.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Decider\bin\Debug\Decider.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Decider\bin\Debug\Decider.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Decider\obj\Debug\Decider.csprojAssemblyReference.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Decider\obj\Debug\Decider.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Decider\obj\Debug\Decider.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Decider\obj\Debug\Decider.pdb

@@ -1,0 +1,137 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ChangeMaker
+{
+    public class Program
+    {
+        static void MakeChange(double origAmount, double remainAmount, int[] coins)
+        {
+            /*
+                ChangeMaker
+
+                For this project, create a C# program that takes in an amount of currency and then
+                tells you how many smaller coins would be needed to make up that same value. For
+                example, in American currency, there are four different coins that are less than a
+                dollar: quarters (worth 25 cents), dimes (worth 10 cents), nickels (worth 5 cents), and
+                pennies (worth 1 cent). In the EU, there are 2e, 1e, 50c, 20c, 10c, 5c, 2c, and 1c coins
+                respectively.
+                Your program should first make sure that the user has entered a positive amount. It
+                should then convert the amount to a sum of the smallest possible units, then
+                calculate the number of larger units that will make up the original total.
+                This problem is an example of what is known as a Greedy algorithm. In a single pass
+                through your amount, you are determining at each step the best way to solve the
+                problem. In other words, at each stage of the problem, you are attempting to find an
+                optimized solution that will lead to the best solution as a whole.
+                
+            */
+
+
+            // Number of 2 Euro
+            if ((origAmount % 2) < origAmount)
+            {
+                coins[7] = (int)(origAmount / 2);
+                remainAmount = origAmount % 2;
+                origAmount = remainAmount;
+
+            }
+
+            // Number of 1 Euro
+            if ((origAmount % 1) < origAmount)
+            {
+                coins[6] = (int)(origAmount / 1);
+                remainAmount = origAmount % 1;
+                origAmount = remainAmount;
+            }
+
+            // Number of 50 Cent
+            if ((origAmount % 0.50) < origAmount)
+            {
+                coins[5] = (int)(origAmount / 0.50);
+                remainAmount = origAmount % 0.50;
+                origAmount = remainAmount;
+            }
+
+            // Number of 20 Cent
+            if ((origAmount % 0.20) < origAmount)
+            {
+                coins[4] = (int)(origAmount / 0.20);
+                remainAmount = origAmount % 0.20;
+                origAmount = remainAmount;
+            }
+
+            // Number of 10 Cent
+            if ((origAmount % 0.10) < origAmount)
+            {
+                coins[3] = (int)(origAmount / 0.10);
+                remainAmount = origAmount % 0.10;
+                origAmount = remainAmount;
+            }
+
+            // Number of 5 Cent
+            if ((origAmount % 0.05) < origAmount)
+            {
+                coins[2] = (int)(origAmount / 0.05);
+                remainAmount = origAmount % 0.05;
+                origAmount = remainAmount;
+            }
+
+            // Number of 2 Cent
+            if ((origAmount % 0.02) < origAmount)
+            {
+                coins[1] = (int)(origAmount / 0.02);
+                remainAmount = origAmount % 0.02;
+                origAmount = remainAmount;
+            }
+
+            // Number of 1 Cent
+            if ((origAmount % 0.01) < origAmount)
+            {
+                coins[0] = (int)(origAmount / 0.01);
+                remainAmount = origAmount % 0.01;
+            }
+        }
+
+        static void ShowChange(int[] arr)
+        {
+            if (arr[7] > 0)
+                Console.WriteLine("Number of 2 Euro: " + arr[7]);
+            if (arr[6] > 0)
+                Console.WriteLine("Number of 1 Euro: " + arr[6]);
+            if (arr[5] > 0)
+                Console.WriteLine("Number of 50 Cent: " + arr[5]);
+            if (arr[4] > 0)
+                Console.WriteLine("Number of 20 Cent: " + arr[4]);
+            if (arr[3] > 0)
+                Console.WriteLine("Number of 10 Cent: " + arr[3]);
+            if (arr[2] > 0)
+                Console.WriteLine("Number of 5 Cent: " + arr[2]);
+            if (arr[1] > 0)
+                Console.WriteLine("Number of 2 Cent: " + arr[1]);
+            if (arr[0] > 0)
+                Console.WriteLine("Number of 1 Cent: " + arr[0]);
+        }
+
+        static void Main()
+        {
+
+            Console.WriteLine("Enter the amount you want to change:");
+            double origAmount = Convert.ToDouble(Console.ReadLine());
+            double toChange = origAmount;
+            double remainAmount = 0.00;
+            int[] coins = new int[8];
+            MakeChange(origAmount, remainAmount, coins);
+
+            Console.WriteLine("The best way to change " + toChange + " cents is: ");
+            ShowChange(coins);
+
+
+
+            Console.WriteLine("Press any key to close the Console Window!");
+            Console.ReadKey();
+        }
+    }
+}

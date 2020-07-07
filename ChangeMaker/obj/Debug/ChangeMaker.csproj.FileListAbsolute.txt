@@ -1,0 +1,7 @@
+C:\Emre-Repositories\DevOps\C-Sharp\Opdrachten\EmreProjects\ChangeMaker\obj\Debug\ChangeMaker.csprojAssemblyReference.cache
+C:\Emre-Repositories\DevOps\C-Sharp\Opdrachten\EmreProjects\ChangeMaker\obj\Debug\ChangeMaker.csproj.CoreCompileInputs.cache
+C:\Emre-Repositories\DevOps\C-Sharp\Opdrachten\EmreProjects\ChangeMaker\bin\Debug\ChangeMaker.exe.config
+C:\Emre-Repositories\DevOps\C-Sharp\Opdrachten\EmreProjects\ChangeMaker\bin\Debug\ChangeMaker.exe
+C:\Emre-Repositories\DevOps\C-Sharp\Opdrachten\EmreProjects\ChangeMaker\bin\Debug\ChangeMaker.pdb
+C:\Emre-Repositories\DevOps\C-Sharp\Opdrachten\EmreProjects\ChangeMaker\obj\Debug\ChangeMaker.exe
+C:\Emre-Repositories\DevOps\C-Sharp\Opdrachten\EmreProjects\ChangeMaker\obj\Debug\ChangeMaker.pdb

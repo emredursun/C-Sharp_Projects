@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ATM\bin\Debug\ATM.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ATM\bin\Debug\ATM.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ATM\bin\Debug\ATM.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ATM\obj\Debug\ATM.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ATM\obj\Debug\ATM.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
