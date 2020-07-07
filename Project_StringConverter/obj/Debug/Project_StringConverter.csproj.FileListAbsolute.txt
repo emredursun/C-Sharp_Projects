@@ -1,0 +1,6 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_StringConverter\bin\Debug\Project_StringConverter.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_StringConverter\bin\Debug\Project_StringConverter.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_StringConverter\bin\Debug\Project_StringConverter.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_StringConverter\obj\Debug\Project_StringConverter.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_StringConverter\obj\Debug\Project_StringConverter.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_StringConverter\obj\Debug\Project_StringConverter.pdb

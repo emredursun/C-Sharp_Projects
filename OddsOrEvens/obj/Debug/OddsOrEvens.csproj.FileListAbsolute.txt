@@ -1,0 +1,6 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\OddsOrEvens\bin\Debug\OddsOrEvens.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\OddsOrEvens\bin\Debug\OddsOrEvens.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\OddsOrEvens\bin\Debug\OddsOrEvens.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\OddsOrEvens\obj\Debug\OddsOrEvens.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\OddsOrEvens\obj\Debug\OddsOrEvens.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\OddsOrEvens\obj\Debug\OddsOrEvens.pdb

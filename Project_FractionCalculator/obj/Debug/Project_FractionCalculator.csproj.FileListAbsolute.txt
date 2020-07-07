@@ -1,0 +1,6 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_FractionCalculator\bin\Debug\Project_FractionCalculator.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_FractionCalculator\bin\Debug\Project_FractionCalculator.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_FractionCalculator\bin\Debug\Project_FractionCalculator.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_FractionCalculator\obj\Debug\Project_FractionCalculator.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_FractionCalculator\obj\Debug\Project_FractionCalculator.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_FractionCalculator\obj\Debug\Project_FractionCalculator.pdb

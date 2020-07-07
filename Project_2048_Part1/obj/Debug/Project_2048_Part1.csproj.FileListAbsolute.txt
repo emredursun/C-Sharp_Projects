@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_2048_Part1\bin\Debug\Project_2048_Part1.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_2048_Part1\bin\Debug\Project_2048_Part1.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_2048_Part1\bin\Debug\Project_2048_Part1.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_2048_Part1\obj\Debug\Project_2048_Part1.csprojAssemblyReference.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_2048_Part1\obj\Debug\Project_2048_Part1.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_2048_Part1\obj\Debug\Project_2048_Part1.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Project_2048_Part1\obj\Debug\Project_2048_Part1.pdb
