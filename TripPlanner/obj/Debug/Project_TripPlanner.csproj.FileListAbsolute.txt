@@ -1,0 +1,6 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\TripPlanner\bin\Debug\TripPlanner.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\TripPlanner\bin\Debug\TripPlanner.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\TripPlanner\bin\Debug\TripPlanner.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\TripPlanner\obj\Debug\Project_TripPlanner.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\TripPlanner\obj\Debug\TripPlanner.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\TripPlanner\obj\Debug\TripPlanner.pdb

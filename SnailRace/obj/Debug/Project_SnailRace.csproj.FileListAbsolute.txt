@@ -1,0 +1,6 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SnailRace\bin\Debug\SnailRace.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SnailRace\bin\Debug\SnailRace.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SnailRace\bin\Debug\SnailRace.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SnailRace\obj\Debug\Project_SnailRace.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SnailRace\obj\Debug\SnailRace.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SnailRace\obj\Debug\SnailRace.pdb

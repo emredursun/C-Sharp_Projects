@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SunDay\bin\Debug\SunDay.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SunDay\bin\Debug\SunDay.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SunDay\bin\Debug\SunDay.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SunDay\obj\Debug\SunDay.csprojAssemblyReference.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SunDay\obj\Debug\SunDay.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SunDay\obj\Debug\SunDay.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\SunDay\obj\Debug\SunDay.pdb
