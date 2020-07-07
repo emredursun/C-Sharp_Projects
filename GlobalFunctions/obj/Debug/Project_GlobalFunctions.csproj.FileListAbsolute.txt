@@ -1,0 +1,3 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GlobalFunctions\obj\Debug\Project_GlobalFunctions.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GlobalFunctions\obj\Debug\GlobalFunctions.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GlobalFunctions\obj\Debug\GlobalFunctions.pdb
