@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\MethodsExamples\bin\Debug\MethodsExamples.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\MethodsExamples\bin\Debug\MethodsExamples.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\MethodsExamples\bin\Debug\MethodsExamples.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\MethodsExamples\obj\Debug\MethodsExamples.csprojAssemblyReference.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\MethodsExamples\obj\Debug\MethodsExamples.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\MethodsExamples\obj\Debug\MethodsExamples.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\MethodsExamples\obj\Debug\MethodsExamples.pdb

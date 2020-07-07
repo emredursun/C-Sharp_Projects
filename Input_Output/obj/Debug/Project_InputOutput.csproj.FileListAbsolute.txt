@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Input_Output\bin\Debug\Input_Output.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Input_Output\bin\Debug\Input_Output.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Input_Output\bin\Debug\Input_Output.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Input_Output\obj\Debug\Project_InputOutput.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Input_Output\obj\Debug\Input_Output.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Input_Output\obj\Debug\Input_Output.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Input_Output\obj\Debug\Project_InputOutput.csprojAssemblyReference.cache

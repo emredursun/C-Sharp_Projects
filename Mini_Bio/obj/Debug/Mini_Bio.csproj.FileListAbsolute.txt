@@ -1,0 +1,7 @@
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Mini_Bio\Mini_Bio\bin\Debug\Mini_Bio.exe.config
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Mini_Bio\Mini_Bio\bin\Debug\Mini_Bio.exe
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Mini_Bio\Mini_Bio\bin\Debug\Mini_Bio.pdb
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Mini_Bio\Mini_Bio\obj\Debug\Mini_Bio.csprojAssemblyReference.cache
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Mini_Bio\Mini_Bio\obj\Debug\Mini_Bio.csproj.CoreCompileInputs.cache
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Mini_Bio\Mini_Bio\obj\Debug\Mini_Bio.exe
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Mini_Bio\Mini_Bio\obj\Debug\Mini_Bio.pdb

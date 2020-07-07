@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\GuessingGame\obj\Debug\GuessingGame.pdb

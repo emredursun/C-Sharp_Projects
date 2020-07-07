@@ -1,0 +1,7 @@
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Input_Output\Input_Output\bin\Debug\Input_Output.exe.config
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Input_Output\Input_Output\bin\Debug\Input_Output.exe
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Input_Output\Input_Output\bin\Debug\Input_Output.pdb
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Input_Output\Input_Output\obj\Debug\Input_Output.csprojAssemblyReference.cache
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Input_Output\Input_Output\obj\Debug\Input_Output.csproj.CoreCompileInputs.cache
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Input_Output\Input_Output\obj\Debug\Input_Output.exe
+C:\Users\Endoo\OneDrive\Bureaublad\Endoor-2020-010\Programmeren met C-Sharp\Opdrachten\Input_Output\Input_Output\obj\Debug\Input_Output.pdb

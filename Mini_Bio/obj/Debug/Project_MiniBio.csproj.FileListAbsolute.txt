@@ -1,0 +1,7 @@
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Mini_Bio\bin\Debug\Mini_Bio.exe.config
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Mini_Bio\bin\Debug\Mini_Bio.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Mini_Bio\bin\Debug\Mini_Bio.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Mini_Bio\obj\Debug\Project_MiniBio.csproj.CoreCompileInputs.cache
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Mini_Bio\obj\Debug\Mini_Bio.exe
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Mini_Bio\obj\Debug\Mini_Bio.pdb
+C:\Azure DevOps\Opdrachten_Csharp\EmreProjects\Mini_Bio\obj\Debug\Project_MiniBio.csprojAssemblyReference.cache
